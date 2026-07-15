@@ -1,7 +1,7 @@
 ## Financial Analytics Assignment
 
 ## Project Overview
-This project analyzes financial management data using Python. The notebook includes income, expenses, cash flow, department-wise analysis, monthly trends, and a simple machine learning model.
+This project analyzes financial management data using Python. The notebook includes income, expenses, cash flow, department-wise analysis, monthly trends.
 
 ## Files Included
 - Financial_analytics.ipynb
